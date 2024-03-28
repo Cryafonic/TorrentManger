@@ -1,0 +1,6 @@
+@TorrentManager_HostAddress = http://localhost:5178
+
+GET {{TorrentManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
